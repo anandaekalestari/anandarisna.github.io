@@ -1,0 +1,18 @@
+body{
+    background-color: #87CEFA;
+    font-family: 'Nunito', sans-serif;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color:#87CEFA ;
+}
+.about {
+    padding-top: 6rem;
+    background-color: #87cefa ;
+}
+section{
+    padding-top: 5rem;
+}
+footer {
+    background-color: #47b8d4;
+}
